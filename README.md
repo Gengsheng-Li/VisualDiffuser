@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  ### Official implementation of <span style="color:blue;">**"VisualDiffuser: a Flexible Framework for Analyzing the Contributions of Various Conditions in Human Brain Visual Information Processing" (tentative)**</span>.
+  ### Official implementation of <span style="color:blue;">**"VisualDiffuser: A Human Visual System-Inspired Visual Decoding Network" (tentative)**</span>.
   <img src="assets/demo2_gradio.png">
   The code is coming soon!
   
