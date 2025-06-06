@@ -8,7 +8,7 @@
   
   ### Official implementation of <span style="color:blue;">**"VisualDiffuser: A Human Visual System-Inspired Visual Decoding Network" (tentative)**</span>.
   <img src="assets/demo2_gradio.png">
-  The code is coming soon!
+  The complete code is coming soon!
   
 </div>
 
